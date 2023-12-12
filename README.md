@@ -7,4 +7,5 @@ The following is an outline of the relevant folders, as well as the information 
 4. CS-260 - This folder contains examples of notebook files completed during this course. Includes my final course project and HW assignments/Labs using SQL and Python.
 5. MI-353 - This folder contains the final course project completed using SAS Enterprise Miner where loan default data was used to predict the class outcome of a loan.
 6. Consolidation Exercise - This folder contains screenshots of the Consolidation Exercise completed in Blue Prism.
-7. UiPath - This folder contains screenshots 
+7. UiPath - This folder contains screenshots from Practice 1 and Practice 2 of the Automation Explorer Training I completed.
+8. MI-462 - This folder contains the project I completed using PowerBI.
