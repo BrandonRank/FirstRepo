@@ -1,0 +1,4 @@
+Practice 1 is a UI Automation which utilizes a test webpage.
+
+The purpose of the automation is to take an input invoice ID from a given Excel workbook and search for the invoice in an online database of invoices.
+The automation will then extract the invoice details and write them into the workbook.
