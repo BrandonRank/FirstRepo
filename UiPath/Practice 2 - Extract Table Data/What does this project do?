@@ -1,0 +1,3 @@
+This project extracts data from a table using the same online database as practice 1.
+
+First the project logs into the webpage, and then navigates to the work items page. It then iterates through each table page and extracts the data to an Excel workbook.
