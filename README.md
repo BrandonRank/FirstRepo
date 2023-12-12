@@ -6,4 +6,5 @@ The following is an outline of the relevant folders, as well as the information 
 3. MG-226 - This folder contains my final course project from this course completed using Tableau. The final presentation is included, as well as the Tableau Desktop and Prep Builder flows.
 4. CS-260 - This folder contains examples of notebook files completed during this course. Includes my final course project and HW assignments/Labs using SQL and Python.
 5. MI-353 - This folder contains the final course project completed using SAS Enterprise Miner where loan default data was used to predict the class outcome of a loan.
-6. 
+6. Consolidation Exercise - This folder contains screenshots of the Consolidation Exercise completed in Blue Prism.
+7. UiPath - This folder contains screenshots 
