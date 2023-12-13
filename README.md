@@ -3,6 +3,7 @@ This repo contains the collection of projects completed over the past 4 years in
 For more information about me and my career, visit my LinkedIn Profile here: www.linkedin.com/in/brandon-rank
 
 
+
 The following is an outline of the relevant folders, as well as the information that can be found in each folder.
 1. Resume - Contains the most up-to-date information about my education, skills, employment history, and campus involvement roles.
 2. Certifications and Badges - This folder contains my relevant badges/diplomas and certificates for training courses completed in Tableau, DataCamp, Amazon Web Services (AWS), Microsoft Azure, and UiPath.
